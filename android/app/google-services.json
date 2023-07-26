@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "287404054826",
+    "project_id": "ai-generation-d4f06",
+    "storage_bucket": "ai-generation-d4f06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287404054826:android:def5508531f6e0d88ba653",
+        "android_client_info": {
+          "package_name": "com.example.art_images_generator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287404054826-k0nu3nqijsdv4f36i1sdr5v24t8fbmqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-A1tRxPzhgWIQLj_AttU2B3Cz922witI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287404054826-k0nu3nqijsdv4f36i1sdr5v24t8fbmqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
